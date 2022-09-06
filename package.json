@@ -1,0 +1,26 @@
+{
+  "name": "marktwo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshayraichur/GK-quiz-js-cli-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshayraichur/GK-quiz-js-cli-app/issues"
+  },
+  "homepage": "https://github.com/akshayraichur/GK-quiz-js-cli-app#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "readline-sync": "^1.4.10"
+  }
+}
